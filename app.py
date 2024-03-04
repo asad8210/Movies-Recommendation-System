@@ -29,7 +29,7 @@ movies_dict = pickle.load(open('movie_dict.pkl', 'rb'))
 movies = pd.DataFrame(movies_dict)
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
-OMDB_API_KEY = "9638bcac"
+OMDB_API_KEY = "your api key"
 
 def fetch_poster(movie_title):
     try:
