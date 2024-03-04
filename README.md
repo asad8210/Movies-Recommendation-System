@@ -1,4 +1,3 @@
-# Movies-Recommendation-System
 # Hollywood-movie-dataset
 Basic movie data like actor names, genre, director names, sequel, date of release, etc of Hollywood movies released between 2001 and 2014. Also includes ranking of actors and directors. 
 
